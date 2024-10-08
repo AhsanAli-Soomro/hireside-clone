@@ -1,0 +1,16 @@
+.customRate .ant-rate-star:hover,
+.customRate .ant-rate-star-active {
+  color: yellow;
+}
+
+.ratingContainer {
+  display: flex;
+  align-items: center;
+}
+.customRate{
+    font-size: 26px;
+}
+.valueText {
+  margin-left: 10px;
+  font-size: 16px;
+}
